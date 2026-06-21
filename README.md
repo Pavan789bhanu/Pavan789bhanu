@@ -91,15 +91,15 @@ My work spans **transaction anomaly detection**, **GenAI assistants for investme
 </td>
 <td width="50%" valign="top">
 
-### 📊 [Auto-Analyst](https://github.com/Pavan789bhanu/Auto-Analyst)
+### 📊 [Prysm](https://github.com/Pavan789bhanu/Prysm)
 
-> Multi-agent data analytics system powered by DSPy and OpenAI
+> AI data analysis, refracted into insight — upload CSVs, ask questions in plain English, get Python pipelines with visualizations
 
-`Python` `DSPy` `OpenAI` `Pandas` `Plotly` `Statsmodels`
+`TypeScript` `Next.js` `Flask` `DSPy` `OpenAI` `Pandas` `Plotly`
 
-- Planner agent orchestrates EDA, statistical analysis, and visualization agents
-- Automated code generation and pipeline combination
-- AWS EC2 deployment with S3 and Secrets Manager integration
+- DSPy multi-agent pipeline: planner, preprocessing, stats, viz, and code combiner agents
+- Full-stack platform with JWT auth, dataset upload, analysis history, and sunset glassmorphism UI
+- Production-ready Flask API with optional AWS S3 storage and pytest coverage
 
 </td>
 </tr>
@@ -176,6 +176,8 @@ My work spans **transaction anomaly detection**, **GenAI assistants for investme
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ### Financial Domain
 ![AML](https://img.shields.io/badge/AML-Surveillance-DC2626?style=flat-square)

@@ -8,8 +8,7 @@
 
 ### AI/ML Engineer · LLM Research
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-m-4779071a3/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=6FxHhAQAAAAJ)
+
 [![Email](https://img.shields.io/badge/Email-pavanbhanu3712%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanbhanu3712@gmail.com)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AML+Anomaly+Detection+%26+Transaction+Surveillance;LLM+Research+%7C+Interspeech+%26+ICMI;GenAI+%26+RAG+for+Financial+Compliance;Building+Production-Ready+AI+Systems" alt="Typing SVG" />
@@ -20,15 +19,14 @@
 
 ## About Me
 
-I'm an **AI/ML Engineer** with 3+ years of experience building intelligent systems at the intersection of **banking, compliance, and large language models**. I engineer AML surveillance pipelines, LLM-powered regulatory automation, and credit-risk models deployed at enterprise scale.
+I'm an **AI/ML Engineer** with 3+ years of experience building intelligent systems powered by **large language models** and **applied machine learning**. I design and deploy production-grade ML pipelines, LLM-powered automation tools, and real-time predictive models at scale.
 
-My work spans **transaction anomaly detection**, **GenAI assistants for investment banking**, and **peer-reviewed LLM research** on spoken-language reasoning. I bridge data science and production engineering — from Kafka-streamed fraud signals to MLOps pipelines on Kubernetes.
+My work spans **anomaly detection systems**, **GenAI assistants**, and **peer-reviewed LLM research** on spoken-language reasoning. I bridge data science and production engineering — from real-time data streaming pipelines to automated ML deployment on cloud infrastructure.
 
 - 🔭 Currently building **real-time AI voice agents** and **browser automation platforms**
-- 🏦 Focus areas: **AML/KYC**, **fraud detection**, **credit risk**, **regulatory compliance (CCAR, FR Y-14)**
-- 🧠 Research: **LLM reasoning in spoken interpersonal interactions** · published at **Interspeech 2025** & **ICMI 2024** · [Google Scholar](https://scholar.google.com/citations?user=6FxHhAQAAAAJ)
+- 🧠 Focus areas: **large language models**, **machine learning systems**, **MLOps**, **real-time data pipelines**
+- 💬 Ask me about: **LLM applications**, **model deployment**
 - 🎓 **M.S. Data Science**, University of Colorado Boulder · **B.Tech IT**, SSN College of Engineering
-- 📍 Austin, TX, USA
 
 ---
 
@@ -44,13 +42,14 @@ My work spans **transaction anomaly detection**, **GenAI assistants for investme
 
 ## Featured Projects
 
+<!-- FEATURED_PROJECTS:START -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎙️ [Recruiter Voice Agent](https://github.com/Pavan789bhanu/recruiter-voice-agent)
 
-> Real-time AI voice agent that answers recruiter calls using your resume — with Human/AI caller detection
+> AI-powered voice agent that answers recruiter calls using your resume as context — with real-time Human/AI caller detection
 
 `Python` `FastAPI` `Claude` `Deepgram` `ElevenLabs` `Twilio` `SwiftUI` `AWS`
 
@@ -64,7 +63,7 @@ My work spans **transaction anomaly detection**, **GenAI assistants for investme
 
 ### 🤖 [WorkflowPro](https://github.com/Pavan789bhanu/UI_State_Capture_System)
 
-> AI-powered browser automation — describe tasks in plain English, watch GPT-4 Vision execute them
+> AI-Powered Browser Automation Platform — Build, execute, and monitor browser workflows using natural language
 
 `Python` `FastAPI` `React` `Playwright` `OpenAI` `Docker`
 
@@ -78,9 +77,9 @@ My work spans **transaction anomaly detection**, **GenAI assistants for investme
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [Quantization of LLMs](https://github.com/Pavan789bhanu/Quantization-of-LLMs)
+### ⚡ [Quantization Techniques for LLMs](https://github.com/Pavan789bhanu/Quantization-of-LLMs)
 
-> Comparative study of GPTQ, AWQ, and post-training quantization for large language models
+> GPTQ (Generalized Post-Training Quantization): GPTQ is designed to perform post-training quantization on large pre-trained models. It focuses on making models more efficient by reducing the precision of weights after the model is already...
 
 `Jupyter` `PyTorch` `Transformers` `auto-gptq` `PEFT`
 
@@ -93,7 +92,7 @@ My work spans **transaction anomaly detection**, **GenAI assistants for investme
 
 ### 📊 [Prysm](https://github.com/Pavan789bhanu/Prysm)
 
-> AI data analysis, refracted into insight — upload CSVs, ask questions in plain English, get Python pipelines with visualizations
+> AI data analysis, refracted into insight. Prysm is an AI-powered automated data analysis platform.
 
 `TypeScript` `Next.js` `Flask` `DSPy` `OpenAI` `Pandas` `Plotly`
 
@@ -108,7 +107,7 @@ My work spans **transaction anomaly detection**, **GenAI assistants for investme
 
 ### 🏥 [Brain Tumor Segmentation](https://github.com/Pavan789bhanu/Brain-Tumor-Segmentation)
 
-> RU-Net deep learning model for 3D MRI brain tumor segmentation on BraTS dataset
+> Brain tumor segmentation is a critical task with applications in oncology and surgery. The BraTS (Brain Tumor Segmentation) dataset offers labeled 3D MRI scans for research.
 
 `PyTorch` `OpenCV` `Jupyter` `Medical Imaging`
 
@@ -119,6 +118,7 @@ My work spans **transaction anomaly detection**, **GenAI assistants for investme
 </td>
 </tr>
 </table>
+<!-- FEATURED_PROJECTS:END -->
 
 ---
 
@@ -126,25 +126,15 @@ My work spans **transaction anomaly detection**, **GenAI assistants for investme
 
 | Domain | What I Build | Impact |
 |--------|-------------|--------|
-| **AML & Surveillance** | Anomaly detection with Isolation Forest, BERT embeddings, Kafka streams | **+27%** transaction surveillance precision |
-| **Regulatory Compliance** | LLM automation for CCAR & FR Y-14 report summarization (GPT-4, LangChain) | **-40%** documentation turnaround |
-| **Credit Risk** | Gradient Boosting + SHAP explainability aligned with MRM framework | **+19%** loan approval accuracy |
-| **GenAI for IB** | LLaMA 2 + Pinecone RAG assistant for market brief generation | **~28 hrs/week** saved in manual research |
-| **Fraud Detection** | Autoencoder + Isolation Forest on 3M+ daily transactions (TCS) | **92%** precision on anomaly detection |
-| **MLOps** | MLflow, Docker, K8s retraining pipelines with audit trails & bias testing | **-32%** model maintenance time |
+| **Anomaly Detection** | Unsupervised ML models with embedding-based similarity on streaming data | **+27%** detection precision |
+| **Automated Reporting** | LLM-powered automation for large-scale document summarization | **-40%** documentation turnaround |
+| **Predictive Modeling** | Ensemble ML models with explainability techniques for transparent decisions | **+19%** prediction accuracy |
+| **GenAI Assistants** | Retrieval-augmented generation (RAG) assistant for research & report generation | **~28 hrs/week** saved in manual research |
+| **Large-Scale Detection Systems** | Deep learning models detecting anomalies across millions of daily records | **92%** precision on anomaly detection |
+| **MLOps** | End-to-end retraining pipelines with containerized deployment, audit trails & bias testing | **-32%** model maintenance time |
 
 ---
 
-## Research & Publications
-
-📚 **[View all publications on Google Scholar](https://scholar.google.com/citations?user=6FxHhAQAAAAJ)**
-
-| Venue | Paper | Year |
-|-------|-------|------|
-| **Interspeech 2025** | [Investigating the Reasoning Abilities of Large Language Models for Understanding Spoken Language in Interpersonal Interactions](https://www.isca-archive.org/interspeech_2025/aggarwal25_interspeech.pdf) | 2025 |
-| **ICMI 2024** | [An AI-Powered Interactive Interface to Enhance Accessibility of Interview Training for Military Veterans](https://dl.acm.org/doi/10.1145/3686215.3688371) | 2024 |
-
----
 
 ## Tech Stack
 

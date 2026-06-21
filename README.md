@@ -44,13 +44,14 @@ My work spans **transaction anomaly detection**, **GenAI assistants for investme
 
 ## Featured Projects
 
+<!-- FEATURED_PROJECTS:START -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎙️ [Recruiter Voice Agent](https://github.com/Pavan789bhanu/recruiter-voice-agent)
 
-> Real-time AI voice agent that answers recruiter calls using your resume — with Human/AI caller detection
+> AI-powered voice agent that answers recruiter calls using your resume as context — with real-time Human/AI caller detection
 
 `Python` `FastAPI` `Claude` `Deepgram` `ElevenLabs` `Twilio` `SwiftUI` `AWS`
 
@@ -64,7 +65,7 @@ My work spans **transaction anomaly detection**, **GenAI assistants for investme
 
 ### 🤖 [WorkflowPro](https://github.com/Pavan789bhanu/UI_State_Capture_System)
 
-> AI-powered browser automation — describe tasks in plain English, watch GPT-4 Vision execute them
+> AI-Powered Browser Automation Platform — Build, execute, and monitor browser workflows using natural language
 
 `Python` `FastAPI` `React` `Playwright` `OpenAI` `Docker`
 
@@ -78,9 +79,9 @@ My work spans **transaction anomaly detection**, **GenAI assistants for investme
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [Quantization of LLMs](https://github.com/Pavan789bhanu/Quantization-of-LLMs)
+### ⚡ [Quantization Techniques for LLMs](https://github.com/Pavan789bhanu/Quantization-of-LLMs)
 
-> Comparative study of GPTQ, AWQ, and post-training quantization for large language models
+> GPTQ (Generalized Post-Training Quantization): GPTQ is designed to perform post-training quantization on large pre-trained models. It focuses on making models more efficient by reducing the precision of weights after the model is already...
 
 `Jupyter` `PyTorch` `Transformers` `auto-gptq` `PEFT`
 
@@ -93,7 +94,7 @@ My work spans **transaction anomaly detection**, **GenAI assistants for investme
 
 ### 📊 [Prysm](https://github.com/Pavan789bhanu/Prysm)
 
-> AI data analysis, refracted into insight — upload CSVs, ask questions in plain English, get Python pipelines with visualizations
+> AI data analysis, refracted into insight. Prysm is an AI-powered automated data analysis platform.
 
 `TypeScript` `Next.js` `Flask` `DSPy` `OpenAI` `Pandas` `Plotly`
 
@@ -108,7 +109,7 @@ My work spans **transaction anomaly detection**, **GenAI assistants for investme
 
 ### 🏥 [Brain Tumor Segmentation](https://github.com/Pavan789bhanu/Brain-Tumor-Segmentation)
 
-> RU-Net deep learning model for 3D MRI brain tumor segmentation on BraTS dataset
+> Brain tumor segmentation is a critical task with applications in oncology and surgery. The BraTS (Brain Tumor Segmentation) dataset offers labeled 3D MRI scans for research.
 
 `PyTorch` `OpenCV` `Jupyter` `Medical Imaging`
 
@@ -119,6 +120,7 @@ My work spans **transaction anomaly detection**, **GenAI assistants for investme
 </td>
 </tr>
 </table>
+<!-- FEATURED_PROJECTS:END -->
 
 ---
 

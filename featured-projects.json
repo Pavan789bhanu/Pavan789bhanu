@@ -1,0 +1,57 @@
+{
+  "owner": "Pavan789bhanu",
+  "projects": [
+    {
+      "repo": "recruiter-voice-agent",
+      "emoji": "🎙️",
+      "tags": ["Python", "FastAPI", "Claude", "Deepgram", "ElevenLabs", "Twilio", "SwiftUI", "AWS"],
+      "highlights": [
+        "Sub-300ms STT latency with Deepgram Nova-2",
+        "Claude-powered responses with resume context",
+        "iOS companion app with live transcript & push notifications",
+        "Full CI/CD with Docker, Nginx, and AWS EC2 deployment"
+      ]
+    },
+    {
+      "repo": "UI_State_Capture_System",
+      "emoji": "🤖",
+      "tags": ["Python", "FastAPI", "React", "Playwright", "OpenAI", "Docker"],
+      "highlights": [
+        "Natural language → executable browser workflows",
+        "Real-time playground with live screenshots",
+        "Self-healing selectors and workflow management dashboard",
+        "Multi-branch CI/CD pipeline with professional contributing guide"
+      ]
+    },
+    {
+      "repo": "Quantization-of-LLMs",
+      "emoji": "⚡",
+      "tags": ["Jupyter", "PyTorch", "Transformers", "auto-gptq", "PEFT"],
+      "highlights": [
+        "Hands-on evaluation of GPTQ vs AWQ weight quantization",
+        "Model compression with accuracy retention analysis",
+        "Production deployment trade-offs for efficient LLM inference"
+      ]
+    },
+    {
+      "repo": "Prysm",
+      "emoji": "📊",
+      "tags": ["TypeScript", "Next.js", "Flask", "DSPy", "OpenAI", "Pandas", "Plotly"],
+      "highlights": [
+        "DSPy multi-agent pipeline: planner, preprocessing, stats, viz, and code combiner agents",
+        "Full-stack platform with JWT auth, dataset upload, analysis history, and sunset glassmorphism UI",
+        "Production-ready Flask API with optional AWS S3 storage and pytest coverage"
+      ]
+    },
+    {
+      "repo": "Brain-Tumor-Segmentation",
+      "emoji": "🏥",
+      "tags": ["PyTorch", "OpenCV", "Jupyter", "Medical Imaging"],
+      "highlights": [
+        "Teacher-student model with pseudo-labeling for data scarcity",
+        "Whole tumor Dice score of **0.7234** on BraTS benchmark",
+        "Applied in oncology and surgical planning research"
+      ]
+    }
+  ]
+}
